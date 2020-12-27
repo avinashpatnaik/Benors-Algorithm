@@ -4,3 +4,5 @@ Ben-Or is a leaderless based decentralized algorithm. It uses binary input over 
 
 So, the system eventually converges to a consensus value as the round progresses. So, in this project we have seen how the algorithm behaves in various scenarios (with cap on
 the number of rounds), and varying the number of nodes and faulty nodes when the initial input contains mixture of 0’s and 1’s. I was able to model how the algorithm achieved consensus using binary values and randomness.
+
+I have used TLA+ and PlusCal to code this algorithm.
