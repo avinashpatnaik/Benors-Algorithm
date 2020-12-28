@@ -130,5 +130,5 @@ Progress  == <> (\A j \in Procs: Cardinality(decided[j])>0)
 =============================================================================
 \* Modification History
 \* Last modified Thu Jul 02 17:35:32 EDT 2020 by DELL
-\* Last modified Wed Jun 24 08:37:04 EDT 2020 by bekir
-\* Created Wed Jun 24 07:53:22 EDT 2020 by bekir
+\* Last modified Wed Jun 24 08:37:04 EDT 2020 by Avinash
+\* Created Wed Jun 24 07:53:22 EDT 2020 by Avinash
